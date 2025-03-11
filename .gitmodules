@@ -1,0 +1,3 @@
+[submodule "HiFi-human-WGS-WDL"]
+	path = HiFi-human-WGS-WDL
+	url = git@github.com:PacificBiosciences/HiFi-human-WGS-WDL.git
